@@ -44,6 +44,8 @@
   </properties>
 
   <modules>
+    <module>atom-auth-ui</module>
+    <module>atom-auth-server</module>
   </modules>
 
   <dependencyManagement>
